@@ -1,8 +1,8 @@
 # Jesus Orozco - IT Project Portfolio
 
-### 🚀 **View My Live Portfolio: [Orozco.pw](https://www.orozco.pw)**
+### 🚀 **View My Live Portfolio: [orozco.pw](https://www.orozco.pw)**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/835d6908-1104-4831-82c2-2bb6b1f3ba0b/deploy-status)](https://app.netlify.com/projects/project-porfolio/deploys)
+This site is published via **GitHub Pages**. The repository includes a `CNAME` file for the custom domain `orozco.pw`.
 
 ---
 
@@ -24,9 +24,9 @@ The site details my journey and capabilities through a series of in-depth projec
 
 ## 🚀 Deployment
 
-This site is hosted on **Netlify** and is configured for **Continuous Deployment (CI/CD)**.
+This site is published using **GitHub Pages**. New commits to the `main` branch are served as the site source. A `CNAME` file at the repository root configures the custom domain.
 
-Any new commit pushed to the `main` branch of this repository will automatically trigger a new build and deploy the changes to the live site.
+Netlify-specific deployment files (such as `_redirects` and `_headers`) have been archived to `deploy/netlify/` for reference.
 
 ## 🎯 My Goal
 
